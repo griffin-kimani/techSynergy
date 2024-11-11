@@ -13,7 +13,7 @@ import {
 
 const App = () => {
   return (
-    <Router>
+    <Router basename="/TechSynergySolutions">
   
       <Routes>
         <Route
