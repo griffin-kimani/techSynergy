@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/techSynergy/static/css/main.a2583134.css",
-    "main.js": "/techSynergy/static/js/main.18ed98c1.js",
+    "main.js": "/techSynergy/static/js/main.08e066f4.js",
     "static/media/background.jpg": "/techSynergy/static/media/background.1ff8b98a4ec3a68d2679.jpg",
     "static/media/istockphoto7.jpg": "/techSynergy/static/media/istockphoto7.a59679b4cfee0574b6cf.jpg",
     "static/media/istockphoto6.jpg": "/techSynergy/static/media/istockphoto6.261106a0d3d81d883c93.jpg",
@@ -12,10 +12,10 @@
     "static/media/istockphoto.jpg": "/techSynergy/static/media/istockphoto.2ce4b795bcb4ebfaa8a0.jpg",
     "index.html": "/techSynergy/index.html",
     "main.a2583134.css.map": "/techSynergy/static/css/main.a2583134.css.map",
-    "main.18ed98c1.js.map": "/techSynergy/static/js/main.18ed98c1.js.map"
+    "main.08e066f4.js.map": "/techSynergy/static/js/main.08e066f4.js.map"
   },
   "entrypoints": [
     "static/css/main.a2583134.css",
-    "static/js/main.18ed98c1.js"
+    "static/js/main.08e066f4.js"
   ]
 }
